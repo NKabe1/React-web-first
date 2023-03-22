@@ -1,0 +1,24 @@
+.button{
+    padding: 12px 18px;
+    border-radius: 6px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.primary-button{
+    background-color: #437ef7;
+    border: none;
+    color: #ffffff;
+}
+
+.secondary-button{
+    background-color: #ffffff;
+    color: #272D37;
+    border: solid 1px #DAE0E6;  
+}
+
+.text-button{
+    background-color: transparent;
+    color: #437EF7;
+    border: none
+}

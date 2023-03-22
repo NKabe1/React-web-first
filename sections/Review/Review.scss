@@ -1,0 +1,14 @@
+.review-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 32px;
+    width: 80%;
+    margin: auto;
+}
+
+.review-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 64px auto;
+}
